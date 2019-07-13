@@ -1,8 +1,0 @@
-
-#05BA61
-#F3F3F3
-#000000
-
-1st Color#05BA61
-2nd Color#858585
-3rd Color#000000
