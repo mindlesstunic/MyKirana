@@ -1,0 +1,45 @@
+
+h2{
+  padding-left: 15px;
+}
+h5{
+  margin-bottom: 10px;
+}
+
+/* Search bar */
+#searchbar{
+  padding: 5% 25% 1%;
+}
+
+/* Buttons */
+.btn-outline-secondary:hover {
+  background-color: #05BA61;
+  border-color: #05BA61;
+}
+
+/* offers  */
+
+#offers{
+  background: #f8f9fa;
+}
+.offers{
+  width:70%
+}
+.col-md-6{
+  padding-left: 0px;
+}
+/* shops */
+#shops{
+  padding: 4% 5% 4% 20%;
+}
+.img-shop{
+  padding-top: 20px;
+  width: 254px;
+  height:160px;
+}
+.row{
+  margin-bottom: 20px;
+}
+.col-shop:hover{
+  border: solid 1px;
+}
